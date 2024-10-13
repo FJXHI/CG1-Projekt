@@ -1,0 +1,10 @@
+﻿  P1A2.cpp
+D:\Felix\HTW\HTW\CG1\Prakt\CG1-Projekt\CG1-Prakt\P1A2.cpp(98,57): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+D:\Felix\HTW\HTW\CG1\Prakt\CG1-Projekt\CG1-Prakt\P1A2.cpp(98,45): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+D:\Felix\HTW\HTW\CG1\Prakt\CG1-Projekt\CG1-Prakt\P1A2.cpp(98,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+  Code wird generiert.
+  2 of 205 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CG1-Prakt.vcxproj -> D:\Felix\HTW\HTW\CG1\Prakt\CG1-Projekt\CG1-Prakt\x64\Release\CG1-Prakt.exe
